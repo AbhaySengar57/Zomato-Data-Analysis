@@ -72,3 +72,4 @@ Zomato-Data-Analysis/
 - Extracting actionable business insights from real-world data
 
 ---
+! Full dataset is too large. A sample of 1,000 rows is included for quick reference.
